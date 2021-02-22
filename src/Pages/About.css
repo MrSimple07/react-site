@@ -1,0 +1,35 @@
+#ledt-tabs-example{
+    margin-top: 30px;
+}
+
+.designImg{
+    width: 500px;
+    height: 500px;
+    border-radius: 12px;
+    cursor: pointer;
+    object-fit: cover;
+}
+
+.programmingImg{
+    width: 500px;
+    height: 500px;
+    border-radius: 12px;
+    cursor: pointer;
+    object-fit: cover;
+}
+
+.marketingImg{
+    width: 500px;
+    height: 500px;
+    border-radius: 12px;
+    cursor: pointer;
+    object-fit: cover;
+}
+
+.smmImg{
+    width: 500px;
+    height: 500px;
+    border-radius: 12px;
+    cursor: pointer;
+    object-fit: cover;
+}
