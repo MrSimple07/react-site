@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MrSimple07/react-site/static/css/main.89f5ef04.chunk.css",
+    "main.js": "/MrSimple07/react-site/static/js/main.4497f9bb.chunk.js",
+    "main.js.map": "/MrSimple07/react-site/static/js/main.4497f9bb.chunk.js.map",
+    "runtime-main.js": "/MrSimple07/react-site/static/js/runtime-main.b26e666b.js",
+    "runtime-main.js.map": "/MrSimple07/react-site/static/js/runtime-main.b26e666b.js.map",
+    "static/js/2.ed2b016d.chunk.js": "/MrSimple07/react-site/static/js/2.ed2b016d.chunk.js",
+    "static/js/2.ed2b016d.chunk.js.map": "/MrSimple07/react-site/static/js/2.ed2b016d.chunk.js.map",
+    "index.html": "/MrSimple07/react-site/index.html",
+    "static/css/main.89f5ef04.chunk.css.map": "/MrSimple07/react-site/static/css/main.89f5ef04.chunk.css.map",
+    "static/js/2.ed2b016d.chunk.js.LICENSE.txt": "/MrSimple07/react-site/static/js/2.ed2b016d.chunk.js.LICENSE.txt",
+    "static/media/cityAtNight1.7cab82d9.jpg": "/MrSimple07/react-site/static/media/cityAtNight1.7cab82d9.jpg",
+    "static/media/cityAtNight2.f7800b66.jpg": "/MrSimple07/react-site/static/media/cityAtNight2.f7800b66.jpg",
+    "static/media/cityAtNight3.ef6375a5.jpg": "/MrSimple07/react-site/static/media/cityAtNight3.ef6375a5.jpg",
+    "static/media/design.c31dd249.jpeg": "/MrSimple07/react-site/static/media/design.c31dd249.jpeg",
+    "static/media/marketing.2061dd1a.jpg": "/MrSimple07/react-site/static/media/marketing.2061dd1a.jpg",
+    "static/media/programming.393d8c09.jpg": "/MrSimple07/react-site/static/media/programming.393d8c09.jpg",
+    "static/media/smm.64d9e6cd.jpg": "/MrSimple07/react-site/static/media/smm.64d9e6cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b26e666b.js",
+    "static/js/2.ed2b016d.chunk.js",
+    "static/css/main.89f5ef04.chunk.css",
+    "static/js/main.4497f9bb.chunk.js"
+  ]
+}
